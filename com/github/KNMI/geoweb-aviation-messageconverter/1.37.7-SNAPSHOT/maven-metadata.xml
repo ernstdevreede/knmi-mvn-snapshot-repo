@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.github.KNMI</groupId>
   <artifactId>geoweb-aviation-messageconverter</artifactId>
-  <version>1.34.0-SNAPSHOT</version>
+  <version>1.37.7-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180717.090254</timestamp>
-      <buildNumber>6</buildNumber>
+      <timestamp>20180827.092433</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20180717090254</lastUpdated>
+    <lastUpdated>20180827092433</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.34.0-20180717.090254-6</value>
-        <updated>20180717090254</updated>
+        <value>1.37.7-20180827.092433-1</value>
+        <updated>20180827092433</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.34.0-20180717.090254-6</value>
-        <updated>20180717090254</updated>
+        <value>1.37.7-20180827.092433-1</value>
+        <updated>20180827092433</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
