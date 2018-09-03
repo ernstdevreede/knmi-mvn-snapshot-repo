@@ -12,7 +12,8 @@
       <version>1.34.0-SNAPSHOT</version>
       <version>1.37.4-SNAPSHOT</version>
       <version>1.37.7-SNAPSHOT</version>
+      <version>1.37.8-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180827092433</lastUpdated>
+    <lastUpdated>20180903114426</lastUpdated>
   </versioning>
 </metadata>
