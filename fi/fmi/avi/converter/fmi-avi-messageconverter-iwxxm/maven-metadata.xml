@@ -4,11 +4,8 @@
   <artifactId>fmi-avi-messageconverter-iwxxm</artifactId>
   <versioning>
     <versions>
-      <version>0.6.1-SNAPSHOT</version>
-      <version>0.6.2-SNAPSHOT</version>
-      <version>0.6.3-SNAPSHOT</version>
-      <version>0.6.4-SNAPSHOT</version>
+      <version>0.9.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180917085543</lastUpdated>
+    <lastUpdated>20181120101650</lastUpdated>
   </versioning>
 </metadata>
