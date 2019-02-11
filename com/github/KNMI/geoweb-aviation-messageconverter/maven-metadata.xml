@@ -4,28 +4,8 @@
   <artifactId>geoweb-aviation-messageconverter</artifactId>
   <versioning>
     <versions>
-      <version>1.0.26-SNAPSHOT</version>
-      <version>1.28.0-SNAPSHOT</version>
-      <version>1.31.0-SNAPSHOT</version>
-      <version>1.32.0-SNAPSHOT</version>
-      <version>1.33.0-SNAPSHOT</version>
-      <version>1.34.0-SNAPSHOT</version>
-      <version>1.37.4-SNAPSHOT</version>
-      <version>1.37.7-SNAPSHOT</version>
-      <version>1.37.8-SNAPSHOT</version>
-      <version>1.38.3-SNAPSHOT</version>
-      <version>1.38.4-SNAPSHOT</version>
-      <version>1.39.1-SNAPSHOT</version>
-      <version>1.39.2-SNAPSHOT</version>
-      <version>1.43.1-SNAPSHOT</version>
-      <version>1.44.2-SNAPSHOT</version>
-      <version>1.44.3-SNAPSHOT</version>
-      <version>1.45.1-SNAPSHOT</version>
-      <version>1.46.1-SNAPSHOT</version>
-      <version>1.46.2-SNAPSHOT</version>
-      <version>1.47.1-SNAPSHOT</version>
-      <version>1.47.2-SNAPSHOT</version>
+      <version>1.48.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190131081307</lastUpdated>
+    <lastUpdated>20190211155137</lastUpdated>
   </versioning>
 </metadata>
