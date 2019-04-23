@@ -4,9 +4,8 @@
   <artifactId>geoweb-aviation-messageconverter</artifactId>
   <versioning>
     <versions>
-      <version>1.50.2-SNAPSHOT</version>
       <version>1.52.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190401134432</lastUpdated>
+    <lastUpdated>20190423080500</lastUpdated>
   </versioning>
 </metadata>
